@@ -1,5 +1,3 @@
-[!MasterHead](https://https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS)](https://whoami-0night
-.in)
 <h1 align="center">Hi 👋, I'm Ghost</h1>
 <h3 align="center">Be a cybersecurity engineer by day Vigilante hacker by night ...</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
