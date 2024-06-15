@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rafsanarman14@gmail.com eliottadriaensghost@gmail.com**
 
-- ⚡ Fun fact **Kernel Panic**
+- ⚡ Fun fact ** i'm just a kid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
