@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ghost</h1>
+<h1 align="center">𝕳𝖎 , 𝕴'𝖒 𝕲𝖍𝖔𝖘𝖙 </h1>
 <h3 align="center">Be a cybersecurity engineer by day Vigilante hacker by night ...</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/116/11664.gif">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/102/102680.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoami-0night&label=Profile%20views&color=0e75b6&style=flat" alt="whoami-0night" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yourhomierafsan" target="blank"><img src="https://img.shields.io/twitter/follow/yourhomierafsan?logo=twitter&style=for-the-badge" alt="yourhomierafsan" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **cyber security anything**
 
-- 📫 How to reach me **rafsanarman14@gmail.com**
+- 📫 How to reach me **rafsanarman14@gmail.com eliottadriaensghost@gmail.com**
 
 - ⚡ Fun fact **Kernel Panic**
 
